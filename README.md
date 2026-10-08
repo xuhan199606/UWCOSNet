@@ -1,6 +1,7 @@
 # UWCOSNet: Underwater camouflaged object segmentation network with frequency edge enhancement
 ## Publication
 Applied Soft Computing (ASOC)
+DOI: [https://doi.org/10.1016/j.asoc.2026.116609](https://doi.org/10.1016/j.asoc.2026.116609)
 
 
 ##
