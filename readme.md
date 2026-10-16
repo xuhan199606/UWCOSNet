@@ -59,12 +59,12 @@ Please download the training and testing datasets from the following links:
 
 | Dataset             |                                      Ref.                                      | Google Drive |    Baidu Netdisk (百度网盘)    |
 | :------------------ | :-----------------------------------------------------------------------------: | :----------: | :-----------------------------: |
-| **MAS3K-CAM** |              [Paper](https://ieeexplore.ieee.org/document/9471801/)              | [Download](#) | [Download](#) (提取码: `xxxx`) |
-| **Aqua-Test** |               [Paper](https://doi.org/10.1007/s11227-024-06584-x)               | [Download](#) | [Download](#) (提取码: `xxxx`) |
-| **CAMO**      |   [Paper](https://www.sciencedirect.com/science/article/pii/S1077314219300608)   | [Download](#) | [Download](#) (提取码: `xxxx`) |
-| **CHAMELEON** | [Link](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | [Download](#) | [Download](#) (提取码: `xxxx`) |
-| **COD10K**    |          [Paper](https://ieeexplore.ieee.org/abstract/document/9156837)          | [Download](#) | [Download](#) (提取码: `xxxx`) |
-| **NC4K**      |          [Paper](https://ieeexplore.ieee.org/abstract/document/9577641)          | [Download](#) | [Download](#) (提取码: `xxxx`) |
+| **MAS3K-CAM** |              [Paper](https://ieeexplore.ieee.org/document/9471801/)              | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **Aqua-Test** |               [Paper](https://doi.org/10.1007/s11227-024-06584-x)               | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **CAMO**      |   [Paper](https://www.sciencedirect.com/science/article/pii/S1077314219300608)   | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **CHAMELEON** | [Link](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **COD10K**    |          [Paper](https://ieeexplore.ieee.org/abstract/document/9156837)          | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **NC4K**      |          [Paper](https://ieeexplore.ieee.org/abstract/document/9577641)          | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
 
 ### 2. Directory Organization
 
