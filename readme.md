@@ -2,7 +2,10 @@
 
 ---
 
-UWCOSNet: Underwater camouflaged object segmentation network with frequency edge enhancement**, accepted by ***Applied Soft Computing (ASOC), 2026.
+<h1>UWCOSNet: Underwater camouflaged object segmentation network with frequency edge enhancement</h1>
+
+<p><strong>Accepted by <em>Applied Soft Computing (ASOC)</em>, 2026</strong></p>
+
 
 ## 🔥 News
 
