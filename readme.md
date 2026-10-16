@@ -86,21 +86,11 @@ After downloading and unpacking, please organize the dataset directory as follow
 
 To facilitate future comparison, we provide the **pre-trained weights** as well as the **pre-computed prediction maps** on all benchmark datasets:
 
-**pre-trained weights** :
+- **pre-trained weights** : ResNet50 and PVTv2-B2 ([Google Drive](), [Baidu Netdisk (百度网盘)]()).
 
-- ResNet50 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
-- PVTv2-B2 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
+- **finall weights** : UWCOSNet-ResNet50 and UWCOSNet-PVTv2-B2 ([Google Drive](), [Baidu Netdisk (百度网盘)](https://pan.baidu.com/s/1VozDXpUBddHbd1w28Kkrhg?pwd=8723)(提取码: `8723`)).
 
-**finall weights** :
-
-- UWCOSNet-ResNet50 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
-- UWCOSNet-PVTv2-B2 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
-
-**prediction maps**:
-
-- UWCOSNet-ResNet50 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
-- UWCOSNet-ResNet50 ([Google Drive](), [Baidu Netdisk (百度网盘)]())
-- Other Methods ([Google Drive](), [Baidu Netdisk (百度网盘)]())
+- **prediction maps**: UWCOSNet-ResNet50 and UWCOSNet-PVTv2-B2 and other methods
 
 ---
 
