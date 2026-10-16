@@ -2,7 +2,7 @@
 
 ---
 
-> **UWCOSNet: Underwater camouflaged object segmentation network with frequency edge enhancement**, accepted by ***Applied Soft Computing (ASOC), 2026***.
+> **UWCOSNet: Underwater camouflaged object segmentation network with frequency edge enhancement**, accepted by ***Applied Soft Computing (ASOC), 2026**.
 
 ## 🔥 News
 
@@ -59,12 +59,12 @@ Please download the training and testing datasets from the following links:
 
 | Dataset             |                                      Ref.                                      | Google Drive |    Baidu Netdisk (百度网盘)    |
 | :------------------ | :-----------------------------------------------------------------------------: | :----------: | :-----------------------------: |
-| **MAS3K-CAM** |              [Paper](https://ieeexplore.ieee.org/document/9471801/)              | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
-| **Aqua-Test** |               [Paper](https://doi.org/10.1007/s11227-024-06584-x)               | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
-| **CAMO**      |   [Paper](https://www.sciencedirect.com/science/article/pii/S1077314219300608)   | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
-| **CHAMELEON** | [Link](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
-| **COD10K**    |          [Paper](https://ieeexplore.ieee.org/abstract/document/9156837)          | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
-| **NC4K**      |          [Paper](https://ieeexplore.ieee.org/abstract/document/9577641)          | [Download](#) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **MAS3K-CAM** |              [Paper](https://ieeexplore.ieee.org/document/9471801/)              | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **Aqua-Test** |               [Paper](https://doi.org/10.1007/s11227-024-06584-x)               | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **CAMO**      |   [Paper](https://www.sciencedirect.com/science/article/pii/S1077314219300608)   | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **CHAMELEON** | [Link](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **COD10K**    |          [Paper](https://ieeexplore.ieee.org/abstract/document/9156837)          | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
+| **NC4K**      |          [Paper](https://ieeexplore.ieee.org/abstract/document/9577641)          | [Download](https://drive.google.com/drive/folders/1up9wXeWMxHiAhy0156qhu9UkdncQzf04?usp=sharing) | [Download](https://pan.baidu.com/s/197StNl8ryFbkAAfhm47ZXQ?pwd=8723) (提取码: `8723`) |
 
 ### 2. Directory Organization
 
